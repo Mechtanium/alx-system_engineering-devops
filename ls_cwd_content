@@ -1,0 +1,9 @@
+total 24
+drwxr-xr-x 2 root root 4096 Sep  5 09:11 0x00-shell_basics
+drwxr-xr-x 2 root root 4096 Sep  5 09:11 0x01-shell_permissions
+drwxr-xr-x 2 root root  198 Sep  5 15:57 0x02-shell_redirections
+-rw-r--r-- 1 root root    0 Sep  5 15:57 ls_cwd_content
+-rw-r--r-- 1 root root  244 Sep  5 06:53 README.md
+-rwxr--r-- 1 root root  776 Sep  5 11:50 temp
+-rwxr--r-- 1 root root  213 Aug 31 14:25 temp_basics
+-rwxr--r-- 1 root root  283 Sep  5 06:55 temp_permissions
